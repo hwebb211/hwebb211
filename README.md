@@ -1,12 +1,4 @@
-- 👋 Hi, I’m @hwebb211
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-I’m an aspiring Data Scientist with a passion for using data to find patterns, solve problems and discover the unexpected. Having spent the last 3 years working 
-as a Strategist at Advertising agency Publicis•Poke, I’m just starting my career in Data Science, and I’m looking for opportunities to combine my love of data 
-and problem solving with my existing expertise in marketing and advertising. 
+I’m Hal Webb, an aspiring Data Scientist with a passion for using data to find patterns, solve problems and discover the unexpected. Having spent the last 3 years working as a Strategist at Advertising agency Publicis•Poke, I’m just starting my career in Data Science, and I’m looking for opportunities to combine my love of data and problem solving with my existing expertise in marketing and advertising. 
 
 I’ve always been a problem solver, whether throughout my degree or in a professional capacity. Studying mathematics at the University of Bath taught me some 
 serious logical rigour and gave me a first taste of programming using languages like R and Matlab, but I also see many parallels between my previous strategy work, 
